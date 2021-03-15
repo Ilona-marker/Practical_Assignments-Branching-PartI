@@ -1,0 +1,16 @@
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.exe
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.deps.json
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.runtimeconfig.json
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.runtimeconfig.dev.json
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.dll
+C:\Users\Aivar\testexample\bin\Debug\net5.0\ref\testexample.dll
+C:\Users\Aivar\testexample\bin\Debug\net5.0\testexample.pdb
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.csprojAssemblyReference.cache
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.AssemblyInfoInputs.cache
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.AssemblyInfo.cs
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.dll
+C:\Users\Aivar\testexample\obj\Debug\net5.0\ref\testexample.dll
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.pdb
+C:\Users\Aivar\testexample\obj\Debug\net5.0\testexample.genruntimeconfig.cache
